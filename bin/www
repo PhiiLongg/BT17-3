@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('ngoduyhoanglong-21800799-buoi4:server');
+var debug = require('debug')('philong-2180604644:server');
 var http = require('http');
 
 /**
